@@ -1,0 +1,3 @@
+
+flash:
+    cargo run
